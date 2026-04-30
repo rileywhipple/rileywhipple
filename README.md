@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Riley Whipple
+# 👋 Hi, I’m Riley!
 
 **Founder of Sykeke Learning Academy**  
 **UI/UX Engineer | Virtual Educator | Educational Systems Builder**
