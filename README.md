@@ -1,75 +1,93 @@
-# 👋 Hi, I’m Riley
+# 👋 Hi, I’m Riley Whipple
 
-**Full-Stack Software Engineer (Design & Systems)**
+**Founder of Sykeke Learning Academy**  
+**UI/UX Engineer | Virtual Educator | Educational Systems Builder**
 
-I build clean, user-focused software with a strong emphasis on frontend clarity, backend structure, and data flow. I enjoy owning features end-to-end — from idea, to UI, to API, to data.
+I build digital learning experiences designed to make online education simple, engaging, and effective for students, parents, and educators.
 
-My work focuses on turning complex workflows into simple, reliable products.
+My work combines education and technology — building the systems, websites, and learning environments that support modern virtual education.
+
+From curriculum delivery to user experience design, I focus on creating structured, student-centered online learning experiences that are easy to navigate and built to scale.
 
 ---
 
 ## 🚀 Current Project
 
-### **Sykeke.io**
-A data cleanup and automation platform for individuals and small businesses.
+### Sykeke Learning Academy
 
-**What it does:**
-- Ingests CSV and Excel files
-- Validates and cleans raw data
-- Processes and normalizes structured datasets
-- Exports clean, usable outputs
-- Emphasizes a smooth, modern user experience
+Sykeke Learning Academy is an online learning platform focused on helping young learners build strong academic foundations through live virtual education, homeschool support, tutoring, and interactive learning communities.
 
-This project combines frontend UI, backend APIs, and data systems into a single product.
+Current areas of development include:
+
+- Full-year virtual Kindergarten through Second Grade programs
+- Homeschool support resources for families
+- Private tutoring systems
+- Parent learning resources
+- Teacher support and online teaching resources
+- Interactive gaming-based learning communities
+- Educational website systems and digital infrastructure
 
 ---
 
-## 🛠 Technical Focus
+## 🛠 What I Build
 
-**Frontend**
-- JavaScript (ES6+), HTML, CSS
-- UI layout, spacing, and interaction
-- User-first design and polish
+### Educational Platforms
+- Online learning websites
+- Student-centered digital experiences
+- Parent resource systems
+- Teacher support platforms
 
-**Backend**
+### Frontend Development
+- HTML
+- CSS
+- JavaScript
+- UI/UX design
+- Responsive layouts
+- User-focused web experiences
+
+### Backend & Systems
 - Python
-- REST API design
-- Validation, authentication, and service boundaries
+- API integration
+- Data systems
+- Platform infrastructure
+- Workflow automation
 
-**Data & Systems**
-- SQL (schema design, querying, joins)
-- Pandas for data transformation
-- CSV / Excel processing
-- Data pipelines from raw input to clean output
-
-**Engineering Practices**
-- End-to-end feature ownership
-- API-driven architecture
-- Clear separation of concerns
-- Git-based workflows
-- Iterative, product-focused development
+### Curriculum & Learning Design
+- K–2 curriculum planning
+- Learning activity systems
+- Digital classroom organization
+- Interactive student engagement systems
 
 ---
 
-## 🧠 How I Think About Engineering
+## 🎓 Education + Technology
 
-I care about building software that:
-- Is easy to understand and maintain
-- Scales cleanly as complexity grows
-- Feels intentional from UI to data layer
+My background combines:
 
-Good design and good systems reinforce each other.
+- Virtual teaching
+- Curriculum development
+- User experience design
+- Frontend engineering
+- Educational systems building
+
+With over 5 years of working with students and 3+ years in virtual education, I build learning systems from both the educator’s and builder’s perspective.
+
+That means every system I create is designed for real learners, real parents, and real classrooms.
 
 ---
 
 ## 🔭 Current Focus
-- Expanding Sykeke.io
-- Improving frontend UX and flow
-- Strengthening backend and data pipelines
-- Building software that feels professional and reliable
+
+- Expanding Sykeke Learning Academy
+- Building parent homeschool support resources
+- Creating online teacher support systems
+- Launching new virtual learning programs
+- Improving educational user experiences
+- Growing safe and engaging online learning communities
 
 ---
 
 ## 🤝 Connect
-- **GitHub:** @rileywhipple  
-- **LinkedIn:** https://www.linkedin.com/in/rileywhipple/
+
+**GitHub:** @rileywhipple  
+**LinkedIn:** linkedin.com/in/rileywhipple
