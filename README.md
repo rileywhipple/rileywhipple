@@ -59,9 +59,6 @@ LearnWithRiley.com
 I’m continuing to develop my backend and infrastructure skills through hands-on projects involving:
 
 - Python
-- HTML
-- CSS
-- JavaScript
 - SQL
 - PostgreSQL
 - APIs
