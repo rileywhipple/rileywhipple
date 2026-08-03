@@ -1,93 +1,129 @@
 # 👋 Hi, I’m Riley!
 
-**Founder of Sykeke Learning Academy**  
-**UI/UX Engineer | Virtual Educator | Educational Systems Builder**
+### Founder of Riley’s Learning Academy
+### Virtual Educator | Web Developer | Educational Systems Builder
 
-I build digital learning experiences designed to make online education simple, engaging, and effective for students, parents, and educators.
+I’m an educator and developer building digital learning experiences that make online education welcoming, organized, engaging, and easy to use.
 
-My work combines education and technology — building the systems, websites, and learning environments that support modern virtual education.
-
-From curriculum delivery to user experience design, I focus on creating structured, student-centered online learning experiences that are easy to navigate and built to scale.
+My work combines education, technology, curriculum design, and community building. I create websites, virtual classrooms, learning resources, and digital systems designed around the real needs of students, families, and online educators.
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Project 
 
-### Sykeke Learning Academy
+### Riley’s Learning Academy
 
-Sykeke Learning Academy is an online learning platform focused on helping young learners build strong academic foundations through live virtual education, homeschool support, tutoring, and interactive learning communities.
+Riley’s Learning Academy is an online education brand operated by Sykeke, LLC.
 
-Current areas of development include:
+The academy provides live virtual learning experiences for young students through full-year classes, private tutoring, homeschool support, and safe gaming-based social communities.
 
-- Full-year virtual Kindergarten through Second Grade programs
+Current programs and projects include:
+
+- Full-year virtual Kindergarten, First Grade, and Second Grade programs
+- Private academic tutoring
 - Homeschool support resources for families
-- Private tutoring systems
 - Parent learning resources
-- Teacher support and online teaching resources
-- Interactive gaming-based learning communities
-- Educational website systems and digital infrastructure
+- Online teaching resources
+- Minecraft gaming clubs and interactive student communities
+- Educational websites and digital classroom systems
+- Calm, educational gaming content for children
+
+### 🌐 Website
+
+LearnWithRiley.com
 
 ---
 
-## 🛠 What I Build
+## 🛠 What I’m Building
+### Educational Websites
 
-### Educational Platforms
 - Online learning websites
-- Student-centered digital experiences
+- Student-friendly digital experiences
 - Parent resource systems
 - Teacher support platforms
+- Responsive and accessible page layouts
 
-### Frontend Development
+### Web Development
+
 - HTML
 - CSS
 - JavaScript
+- Responsive web design
 - UI/UX design
-- Responsive layouts
-- User-focused web experiences
+- Git and GitHub
+- Vercel deployment
 
-### Backend & Systems
+### Backend Development
+
+I’m continuing to develop my backend and infrastructure skills through hands-on projects involving:
+
 - Python
-- API integration
-- Data systems
-- Platform infrastructure
+- SQL
+- PostgreSQL
+- APIs
+- FastAPI
+- Linux
+- Docker
 - Workflow automation
+- Cloud and deployment systems
 
-### Curriculum & Learning Design
-- K–2 curriculum planning
-- Learning activity systems
+### Curriculum and Learning Design
+
+- Kindergarten through Second Grade curriculum planning
+- Virtual lesson development
 - Digital classroom organization
-- Interactive student engagement systems
+- Interactive learning activities
+- Student engagement systems
+- Safe online learning communities
 
 ---
 
-## 🎓 Education + Technology
+## 🎓 Education Meets Technology
 
 My background combines:
 
-- Virtual teaching
+- More than five years of working with children
+- More than three years of virtual teaching experience
 - Curriculum development
+- Frontend web development
 - User experience design
-- Frontend engineering
+- Online community management
 - Educational systems building
 
-With over 5 years of working with students and 3+ years in virtual education, I build learning systems from both the educator’s and builder’s perspective.
+I build from both the educator’s and developer’s perspective.
 
-That means every system I create is designed for real learners, real parents, and real classrooms.
+That means the projects I create are designed for real students, real families, real teachers, and real online classrooms—not just technical demonstrations.
 
 ---
 
 ## 🔭 Current Focus
-
-- Expanding Sykeke Learning Academy
-- Building parent homeschool support resources
-- Creating online teacher support systems
-- Launching new virtual learning programs
-- Improving educational user experiences
-- Growing safe and engaging online learning communities
+- Expanding Riley’s Learning Academy
+- Improving LearnWithRiley.com
+- Developing educational resources for families
+- Creating support systems for virtual educators
+- Building new online learning programs
+- Growing safe and welcoming gaming communities
+- Learning backend development and cloud infrastructure
+- Creating long-term portfolio projects that combine education and technology
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
-**GitHub:** @rileywhipple  
-**LinkedIn:** linkedin.com/in/rileywhipple
+### Website
+
+LearnWithRiley.com
+
+### GitHub
+
+@rileywhipple
+
+### LinkedIn
+
+linkedin.com/in/rileywhipple
+
+---
+
+### Copyright
+
+Copyright © 2026 Sykeke, LLC | Riley’s Learning Academy. All Rights Reserved.
