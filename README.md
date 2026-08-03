@@ -3,7 +3,7 @@
 ### Founder of Riley’s Learning Academy
 ### Virtual Educator | Web Developer | Educational Systems Builder
 
-I’m an educator and developer building digital learning experiences that make online education welcoming, organized, engaging, and easy to use.
+I’m a business owner, virtual educator, and web developer building digital learning experiences that make online education welcoming, organized, engaging, and easy to use.
 
 My work combines education, technology, curriculum design, and community building. I create websites, virtual classrooms, learning resources, and digital systems designed around the real needs of students, families, and online educators.
 
@@ -22,11 +22,11 @@ Current programs and projects include:
 - Full-year virtual Kindergarten, First Grade, and Second Grade programs
 - Private academic tutoring
 - Homeschool support resources for families
-- Parent learning resources
 - Online teaching resources
+- Parent learning resources
 - Minecraft gaming clubs and interactive student communities
 - Educational websites and digital classroom systems
-- Calm, educational gaming content for children
+- Education and gaming content for children
 
 ### 🌐 Website
 
@@ -37,7 +37,7 @@ LearnWithRiley.com
 ## 🛠 What I’m Building
 ### Educational Websites
 
-- Online learning websites
+- Online learning resources
 - Student-friendly digital experiences
 - Parent resource systems
 - Teacher support platforms
@@ -45,6 +45,7 @@ LearnWithRiley.com
 
 ### Web Development
 
+- Python
 - HTML
 - CSS
 - JavaScript
@@ -58,6 +59,9 @@ LearnWithRiley.com
 I’m continuing to develop my backend and infrastructure skills through hands-on projects involving:
 
 - Python
+- HTML
+- CSS
+- JavaScript
 - SQL
 - PostgreSQL
 - APIs
@@ -86,6 +90,7 @@ My background combines:
 - More than three years of virtual teaching experience
 - Curriculum development
 - Frontend web development
+- Backend web development
 - User experience design
 - Online community management
 - Educational systems building
